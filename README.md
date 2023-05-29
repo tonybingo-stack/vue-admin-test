@@ -44,4 +44,3 @@ npm lint
 # unit test
 npm test
 ```# vue-admin-test
-''' End'
